@@ -5,9 +5,9 @@
 ### A curated database of 800+ real-world ML and LLM implementations from 150+ companies
 
 ![License](https://img.shields.io/badge/license-Apache%202.0-blue?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/hackthacker/ml-llm-case-studies?style=for-the-badge&color=yellow)
-![Forks](https://img.shields.io/github/forks/hackthacker/ml-llm-case-studies?style=for-the-badge&color=green)
-![Issues](https://img.shields.io/github/issues/hackthacker/ml-llm-case-studies?style=for-the-badge&color=red)
+![Stars](https://img.shields.io/github/stars/hackThacker/awesome-ml-llm-case-studies?style=for-the-badge&color=yellow)
+![Forks](https://img.shields.io/github/forks/hackThacker/awesome-ml-llm-case-studies?style=for-the-badge&color=green)
+![Issues](https://img.shields.io/github/issues/hackThacker/awesome-ml-llm-case-studies?style=for-the-badge&color=red)
 
 </div>
 
